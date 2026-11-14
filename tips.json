@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "title": "Choosing the right cage",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Choose a wide enclosure that allows short flights and wing stretching.",
+      "Check bar spacing suits the species and fit secure latches."
+    ],
+    "caution": "Avoid round cages and sharp or rusty bars."
+  },
+  {
+    "id": 2,
+    "title": "Positioning the cage",
+    "category": "Housing",
+    "frequency": "As needed",
+    "steps": [
+      "Place the cage in a bright social room away from draughts and cooking fumes.",
+      "Provide a quiet area for undisturbed night-time rest."
+    ],
+    "caution": "Keep out of direct midday sun and away from radiators."
+  },
+  {
+    "id": 3,
+    "title": "Natural wood perches",
+    "category": "Housing",
+    "frequency": "Weekly",
+    "steps": [
+      "Offer clean bird-safe branches of varying diameters and textures.",
+      "Place perches so droppings do not fall into food and water."
+    ],
+    "caution": "Avoid sandpaper perch covers that irritate feet."
+  },
+  {
+    "id": 4,
+    "title": "Cage floor and liners",
+    "category": "Housing",
+    "frequency": "Daily",
+    "steps": [
+      "Use plain paper liners to observe droppings and replace when soiled.",
+      "Keep the base dry and inspect for food waste."
+    ],
+    "caution": "Avoid scented or dusty substrates."
+  },
+  {
+    "id": 5,
+    "title": "Safe food and water bowls",
+    "category": "Housing",
+    "frequency": "Daily",
+    "steps": [
+      "Wash bowls daily and provide fresh drinking water.",
+      "Position bowls where they will not be contaminated by droppings."
+    ],
+    "caution": "Never rely on a blocked or dirty water dispenser."
+  },
+  {
+    "id": 6,
+    "title": "Daily spot cleaning",
+    "category": "Hygiene",
+    "frequency": "Daily",
+    "steps": [
+      "Remove droppings, wet paper and spoiled fresh food.",
+      "Wipe affected surfaces with bird-safe products and rinse well."
+    ],
+    "caution": "Move birds away from cleaning sprays and fumes."
+  },
+  {
+    "id": 7,
+    "title": "Deep cleaning the enclosure",
+    "category": "Hygiene",
+    "frequency": "Weekly",
+    "steps": [
+      "Transfer the bird safely to a secure temporary space.",
+      "Wash cage parts with appropriate bird-safe cleaner, rinse and dry fully."
+    ],
+    "caution": "Avoid bleach fumes and never mix cleaning chemicals."
+  },
+  {
+    "id": 8,
+    "title": "Introducing a new bird",
+    "category": "Social Needs",
+    "frequency": "As needed",
+    "steps": [
+      "Set up a separate quarantine space and arrange an avian-vet check.",
+      "Introduce birds gradually with supervised contact after veterinary guidance."
+    ],
+    "caution": "Do not put unfamiliar birds directly together."
+  },
+  {
+    "id": 9,
+    "title": "Understanding flock companionship",
+    "category": "Social Needs",
+    "frequency": "Daily",
+    "steps": [
+      "Offer daily interaction and species-appropriate social contact.",
+      "Consider a compatible companion where housing and welfare allow."
+    ],
+    "caution": "A mirror is not a substitute for appropriate social care."
+  },
+  {
+    "id": 10,
+    "title": "Recognising stress signals",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Notice repeated escape attempts, freezing, frantic movement or sudden quietness.",
+      "Reduce disturbance and identify changes in the environment."
+    ],
+    "caution": "Persistent distress warrants advice from an avian vet."
+  },
+  {
+    "id": 11,
+    "title": "Reading budgie body language",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Observe relaxed posture, gentle chirping and comfortable preening.",
+      "Watch for fluffed posture combined with inactivity or reduced appetite."
+    ],
+    "caution": "Birds often conceal illness; unusual behaviour matters."
+  },
+  {
+    "id": 12,
+    "title": "Gentle step-up training",
+    "category": "Training",
+    "frequency": "Daily",
+    "steps": [
+      "Offer a perch or finger at chest height and reward voluntary stepping.",
+      "Keep sessions short and stop before the bird becomes fearful."
+    ],
+    "caution": "Never grab or force a frightened bird to step up."
+  },
+  {
+    "id": 13,
+    "title": "Positive reinforcement",
+    "category": "Training",
+    "frequency": "Daily",
+    "steps": [
+      "Reward desired behaviours promptly with praise or a small suitable treat.",
+      "Practise one simple skill at a time in a calm place."
+    ],
+    "caution": "Avoid punishment, shouting or spraying water as discipline."
+  },
+  {
+    "id": 14,
+    "title": "Safe out-of-cage flying",
+    "category": "Exercise",
+    "frequency": "Daily",
+    "steps": [
+      "Close doors and windows and cover mirrors and large panes.",
+      "Turn off fans and remove other pets before supervised flight."
+    ],
+    "caution": "Never allow free flight in a kitchen during cooking."
+  },
+  {
+    "id": 15,
+    "title": "Bird-safe toys",
+    "category": "Enrichment",
+    "frequency": "Weekly",
+    "steps": [
+      "Provide shredding toys, swings and appropriate foraging materials.",
+      "Rotate toys and check them for damage and entanglement hazards."
+    ],
+    "caution": "Remove frayed ropes, small loose parts and unsafe metals."
+  },
+  {
+    "id": 16,
+    "title": "Foraging for food",
+    "category": "Enrichment",
+    "frequency": "Daily",
+    "steps": [
+      "Hide a little of the normal daily food allowance in safe paper foraging toys.",
+      "Start with easy puzzles and increase difficulty gradually."
+    ],
+    "caution": "Do not restrict access to essential food."
+  },
+  {
+    "id": 17,
+    "title": "Managing boredom",
+    "category": "Enrichment",
+    "frequency": "Daily",
+    "steps": [
+      "Offer varied perches, safe toys and predictable social time.",
+      "Watch which activities the bird chooses voluntarily."
+    ],
+    "caution": "Sudden feather damage needs veterinary assessment."
+  },
+  {
+    "id": 18,
+    "title": "Bathing and misting",
+    "category": "Grooming",
+    "frequency": "As needed",
+    "steps": [
+      "Offer a shallow bath of clean lukewarm water or a gentle mist if welcomed.",
+      "Let feathers dry naturally in a warm, draught-free room."
+    ],
+    "caution": "Never use shampoo or force a bird into water."
+  },
+  {
+    "id": 19,
+    "title": "Normal preening",
+    "category": "Grooming",
+    "frequency": "Daily",
+    "steps": [
+      "Allow time for the bird to align feathers with its beak.",
+      "Notice changes such as excessive scratching or bald patches."
+    ],
+    "caution": "Persistent feather loss or self-plucking requires an avian vet."
+  },
+  {
+    "id": 20,
+    "title": "Nail care",
+    "category": "Grooming",
+    "frequency": "Monthly",
+    "steps": [
+      "Check whether nails snag on fabric or affect perching.",
+      "Ask an avian vet to demonstrate safe trimming if needed."
+    ],
+    "caution": "Cutting too far can cause serious bleeding."
+  },
+  {
+    "id": 21,
+    "title": "Beak health",
+    "category": "Grooming",
+    "frequency": "Weekly",
+    "steps": [
+      "Provide safe chewing and foraging opportunities.",
+      "Observe whether the beak closes normally and food is handled comfortably."
+    ],
+    "caution": "Do not trim a beak yourself; overgrowth needs veterinary assessment."
+  },
+  {
+    "id": 22,
+    "title": "Balanced budgie diet",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Provide a balanced species-appropriate diet developed with avian-vet guidance.",
+      "Introduce suitable vegetables gradually alongside the main diet."
+    ],
+    "caution": "A seed-only diet can cause nutritional problems."
+  },
+  {
+    "id": 23,
+    "title": "Safe leafy greens",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Offer washed bird-safe greens in small manageable pieces.",
+      "Remove uneaten fresh food before it spoils."
+    ],
+    "caution": "Check plant identification and avoid pesticide residues."
+  },
+  {
+    "id": 24,
+    "title": "Introducing new vegetables",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Offer tiny portions repeatedly without forcing the bird.",
+      "Present vegetables chopped, clipped or alongside familiar food."
+    ],
+    "caution": "Never starve a bird to force a diet change."
+  },
+  {
+    "id": 25,
+    "title": "Treats and millet",
+    "category": "Feeding",
+    "frequency": "As needed",
+    "steps": [
+      "Use small millet portions as occasional training rewards.",
+      "Count treats as part of the bird's total food intake."
+    ],
+    "caution": "Excess treats can unbalance the diet."
+  },
+  {
+    "id": 26,
+    "title": "Foods to avoid",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Keep avocado, chocolate, caffeine and alcohol away from birds.",
+      "Prevent access to salty, sugary and heavily seasoned human food."
+    ],
+    "caution": "Suspected ingestion of toxins requires urgent avian-vet advice."
+  },
+  {
+    "id": 27,
+    "title": "Fresh water routines",
+    "category": "Feeding",
+    "frequency": "Daily",
+    "steps": [
+      "Refresh drinking water at least daily and more often if contaminated.",
+      "Monitor whether the bird drinks normally."
+    ],
+    "caution": "Sudden drinking changes can indicate illness."
+  },
+  {
+    "id": 28,
+    "title": "Monitoring body condition",
+    "category": "Health Awareness",
+    "frequency": "Weekly",
+    "steps": [
+      "Weigh the bird on a gram scale at a consistent time if trained to tolerate it.",
+      "Record trends and observe appetite and activity."
+    ],
+    "caution": "Unexpected weight loss needs prompt avian-vet assessment."
+  },
+  {
+    "id": 29,
+    "title": "Checking droppings",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Observe changes in the appearance and frequency of droppings on paper liners.",
+      "Note any dietary changes that could affect colour."
+    ],
+    "caution": "Persistent changes, straining or blood need veterinary advice."
+  },
+  {
+    "id": 30,
+    "title": "Early signs of illness",
+    "category": "Health Awareness",
+    "frequency": "Daily",
+    "steps": [
+      "Watch for lethargy, reduced appetite, unusual fluffed posture or sitting low.",
+      "Keep the bird warm and calm while contacting an avian vet."
+    ],
+    "caution": "Birds can deteriorate quickly; do not wait for severe symptoms."
+  },
+  {
+    "id": 31,
+    "title": "Breathing difficulties",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Look for open-mouth breathing, pronounced tail bobbing or wheezing.",
+      "Reduce stress and arrange emergency avian veterinary care."
+    ],
+    "caution": "Never attempt home respiratory treatments or delay help."
+  },
+  {
+    "id": 32,
+    "title": "Injuries and bleeding",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Keep the bird secure and minimise handling after an injury.",
+      "Contact an avian vet immediately for bleeding, falls or suspected fractures."
+    ],
+    "caution": "Small birds can lose dangerous amounts of blood quickly."
+  },
+  {
+    "id": 33,
+    "title": "Annual avian health checks",
+    "category": "Health Awareness",
+    "frequency": "Yearly",
+    "steps": [
+      "Arrange routine examinations with an avian-experienced vet.",
+      "Bring notes on diet, behaviour and weight trends."
+    ],
+    "caution": "A general dog-and-cat clinic may not have bird-specific expertise."
+  },
+  {
+    "id": 34,
+    "title": "Safe transport to the vet",
+    "category": "Health Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Use a secure ventilated travel carrier with a stable perch or padded floor.",
+      "Keep the carrier quiet and protected from temperature extremes."
+    ],
+    "caution": "Never transport a bird loose in a vehicle."
+  },
+  {
+    "id": 35,
+    "title": "Teflon and non-stick fumes",
+    "category": "Home Safety",
+    "frequency": "Daily",
+    "steps": [
+      "Keep birds away from kitchens and overheated non-stick cookware.",
+      "Choose safer cooking practices and ensure good ventilation."
+    ],
+    "caution": "Overheated PTFE fumes can be rapidly fatal to birds."
+  },
+  {
+    "id": 36,
+    "title": "Aerosols and fragrances",
+    "category": "Home Safety",
+    "frequency": "Daily",
+    "steps": [
+      "Avoid air fresheners, scented candles, essential-oil diffusers and aerosol sprays near birds.",
+      "Use fresh air and bird-safe cleaning methods."
+    ],
+    "caution": "Bird respiratory systems are highly sensitive to airborne irritants."
+  },
+  {
+    "id": 37,
+    "title": "Open windows and doors",
+    "category": "Home Safety",
+    "frequency": "Daily",
+    "steps": [
+      "Check that windows and doors are secured before opening the cage.",
+      "Use properly fitted screens and supervise all flight time."
+    ],
+    "caution": "Even tame birds can escape unexpectedly."
+  },
+  {
+    "id": 38,
+    "title": "Ceiling fans and mirrors",
+    "category": "Home Safety",
+    "frequency": "Daily",
+    "steps": [
+      "Turn off ceiling fans and cover hazardous reflective surfaces before flight.",
+      "Walk through the room to identify collision risks."
+    ],
+    "caution": "Window strikes can cause serious injury."
+  },
+  {
+    "id": 39,
+    "title": "Houseplants and toxic materials",
+    "category": "Home Safety",
+    "frequency": "Weekly",
+    "steps": [
+      "Check every houseplant against reliable bird-safety guidance.",
+      "Keep unknown plants, lead, zinc and peeling paint out of reach."
+    ],
+    "caution": "Chewing toxic items can cause poisoning."
+  },
+  {
+    "id": 40,
+    "title": "Kitchen and bathroom hazards",
+    "category": "Home Safety",
+    "frequency": "Daily",
+    "steps": [
+      "Keep birds away from hot pans, boiling water and open toilets.",
+      "Close bathroom doors and remove standing water hazards."
+    ],
+    "caution": "Never leave a bird unsupervised near water or heat."
+  },
+  {
+    "id": 41,
+    "title": "Warm weather care",
+    "category": "Seasonal Care",
+    "frequency": "Seasonal",
+    "steps": [
+      "Provide shade, ventilation and plenty of fresh water.",
+      "Watch for panting, wings held away from the body and weakness."
+    ],
+    "caution": "Heat stress is an emergency; contact an avian vet."
+  },
+  {
+    "id": 42,
+    "title": "Cold weather care",
+    "category": "Seasonal Care",
+    "frequency": "Seasonal",
+    "steps": [
+      "Keep the cage away from draughts and sudden temperature swings.",
+      "Maintain a stable indoor temperature and observe comfort."
+    ],
+    "caution": "Avoid direct heaters and unsafe heat lamps."
+  },
+  {
+    "id": 43,
+    "title": "Fireworks and loud noises",
+    "category": "Seasonal Care",
+    "frequency": "Seasonal",
+    "steps": [
+      "Move the bird to a calm familiar room before noisy events.",
+      "Maintain a predictable routine and offer safe hiding options."
+    ],
+    "caution": "Panic flights can cause injury; secure the enclosure."
+  },
+  {
+    "id": 44,
+    "title": "Healthy sleep routines",
+    "category": "Wellbeing",
+    "frequency": "Daily",
+    "steps": [
+      "Provide a quiet, dark and predictable sleep period appropriate for the species.",
+      "Keep the cage away from late-night TV and disturbances."
+    ],
+    "caution": "Ongoing sleep disruption can affect behaviour and health."
+  },
+  {
+    "id": 45,
+    "title": "Signs of egg laying",
+    "category": "Breeding Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Watch for repeated nesting behaviour and changes in droppings or posture.",
+      "Discuss repeated laying and environmental management with an avian vet."
+    ],
+    "caution": "Straining or sitting fluffed on the cage floor may indicate egg binding: urgent vet."
+  },
+  {
+    "id": 46,
+    "title": "Avoiding accidental breeding",
+    "category": "Breeding Awareness",
+    "frequency": "As needed",
+    "steps": [
+      "Avoid nest boxes and enclosed nest-like spaces unless breeding is responsibly planned.",
+      "Ask an avian vet about hormone-related behaviours."
+    ],
+    "caution": "Do not attempt to remove a retained egg yourself."
+  },
+  {
+    "id": 47,
+    "title": "Caring for older birds",
+    "category": "Senior Birds",
+    "frequency": "Daily",
+    "steps": [
+      "Make food, water and favourite perches easy to reach.",
+      "Monitor weight, mobility and changes in routine."
+    ],
+    "caution": "Arthritis or weakness needs veterinary assessment."
+  },
+  {
+    "id": 48,
+    "title": "Recognising a frightened bird",
+    "category": "Behaviour",
+    "frequency": "Daily",
+    "steps": [
+      "Watch for rapid breathing, retreating, freezing or repeated alarm calls.",
+      "Give space and reduce the stimulus rather than pursuing the bird."
+    ],
+    "caution": "Forced handling can worsen fear and cause injury."
+  },
+  {
+    "id": 49,
+    "title": "Preparing for holidays",
+    "category": "Planning",
+    "frequency": "As needed",
+    "steps": [
+      "Arrange a knowledgeable bird sitter and written feeding and safety instructions.",
+      "Leave avian-vet details and emergency contact information."
+    ],
+    "caution": "Do not leave a bird unattended for days with extra food alone."
+  },
+  {
+    "id": 50,
+    "title": "Emergency contact card",
+    "category": "Planning",
+    "frequency": "As needed",
+    "steps": [
+      "Record your avian vet, out-of-hours clinic and emergency contact.",
+      "Keep the bird's species, medicines and usual diet documented."
+    ],
+    "caution": "Seek veterinary advice immediately for breathing problems, collapse or suspected poisoning."
+  }
+]
